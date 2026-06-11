@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Expense Tracker
 
 A Python-based Expense Tracker application built using Tkinter, CSV and Matplotlib.
@@ -57,7 +56,7 @@ Ayush Rawat
 ![alt text](../../../Downloads/expense_bar_chart.png)
 
 ![alt text](../../../Downloads/monthly_expend_trend.png)
-=======
+
 # Expense-Tracker
+
 Python Expense Tracker with Tkinter GUI and CSV Database
->>>>>>> 2b65cfb369646ce856483fe8b1174d33bfdc6cbf
