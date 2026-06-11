@@ -1,40 +1,48 @@
 # Expense Tracker
 
-A Python Expense Tracker Application built using:
-
-- Python
-- CSV Database
-- Tkinter GUI
-- Matplotlib
+A Python-based Expense Tracker application built using Tkinter, CSV and Matplotlib.
 
 ## Features
 
 - Add Expense
-- View Expense
-- Search Expense
-- Update Expense
-- Delete Expense
-
+- View Expenses
+- Update Expenses
+- Delete Expenses
 - Add Income
 - View Income
-
-- Monthly Report
+- Monthly Reports
 - Budget Tracking
+- Pie Chart Analysis
+- Bar Chart Analysis
+- Tkinter GUI
 
-- Pie Chart Analytics
+## Technologies Used
 
-## Run
+- Python
+- Tkinter
+- CSV
+- Matplotlib
+
+## Project Structure
+
+ExpenseTracker/
+├── gui.py
+├── main.py
+├── database.py
+├── expense_manager.py
+├── income_manager.py
+├── report_manager.py
+├── budget_manager.py
+
+## Run Project
 
 ```bash
 python gui.py
-
-
-
-
-
-Author
-Ayush Rawat
 ```
+
+## Author
+
+Ayush Rawat
 
 # Screenshot of output
 
